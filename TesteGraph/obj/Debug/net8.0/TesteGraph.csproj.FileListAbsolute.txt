@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\bin\Debug\net8.0\TesteGraph.exe
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\bin\Debug\net8.0\TesteGraph.deps.json
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\bin\Debug\net8.0\TesteGraph.runtimeconfig.json
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\bin\Debug\net8.0\TesteGraph.dll
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\bin\Debug\net8.0\TesteGraph.pdb
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.dll
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\refint\TesteGraph.dll
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.pdb
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\TesteGraph.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Desktop\TesteGraph\TesteGraph\obj\Debug\net8.0\ref\TesteGraph.dll
